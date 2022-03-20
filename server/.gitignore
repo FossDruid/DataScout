@@ -1,0 +1,7 @@
+__pycache__/
+venv
+.env
+.flaskenv
+package-lock.json
+package.json
+node_modules
