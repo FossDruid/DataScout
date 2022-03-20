@@ -1,6 +1,6 @@
 # routes
 from flask import Blueprint, render_template, url_for
-from ..dataEngine.dataDriver import *
+#from ..dataEngine.dataDriver import *
 
 main = Blueprint('main', __name__)
 
@@ -14,14 +14,14 @@ def error404():
 
 @main.route('/graphs')
 def chartPage():
-    dataForAnalysis = []
-    graphChoice = ""
-    userDataGetter(dataForAnalysis)
-    print("Here's your data:  ")
-    print(*dataForAnalysis)
-    print('\n')
-    graphChoice = graphSelector(dataForAnalysis, graphChoice)
-    dataFormatter(dataForAnalysis, graphChoice)
+    #dataForAnalysis = []
+    #graphChoice = ""
+    #userDataGetter(dataForAnalysis)
+    #print("Here's your data:  ")
+    #print(*dataForAnalysis)
+    #print('\n')
+    #graphChoice = graphSelector(dataForAnalysis, graphChoice)
+    #dataFormatter(dataForAnalysis, graphChoice)
     data = [
         ("01-01-2020", 1597),
         ("02-01-2020", 1456),
