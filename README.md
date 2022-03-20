@@ -1,5 +1,5 @@
 # Datascout
-WIP. web project for data visualization written in Flask.
+WIP. Web project for data visualization written in Flask.
 
 ## Techstack:
 
