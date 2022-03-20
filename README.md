@@ -1,7 +1,7 @@
 # Datascout
+WIP. web project for data visualization written in Flask.
 
-## WIP. web project for data visualization written in Flask.
-Techstack:
+## Techstack:
 
 Currently uses Flask for the backend and python for the data-manipulation engine. Using Chartjs ( Through CDN ) for data visualisation.
 Setup (Python)
