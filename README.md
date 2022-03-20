@@ -1,5 +1,5 @@
 # Datascout
-WIP. Web project for data visualization written in Flask.  Lots of functionality is needed.  Currently working on the datavisualization engine, then i'll focus on the frontend ( Maybe find a framework ).
+WIP. Web project for data visualization written in Flask.  Lots of functionality is needed.  Currently working on the datavisualization engine, then i'll focus on the frontend ( Maybe find a framework ).  Will work with user authentication and authorization later, core functionality is a priority.
 
 ## Techstack:
 
