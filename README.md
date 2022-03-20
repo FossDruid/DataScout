@@ -7,14 +7,14 @@ Currently uses Flask for the backend and python for the data-manipulation engine
 Setup (Python)
 
 ## Setup
-
 You will need Python3 and pip for this project.
 Create and activate an enviorment
 
-### $ cd dataScout/server
+### activate an enviorment
 
-###$ python3 -m venv venv
+cd dataScout/server
+python3 -m venv venv
 
-## Install Flask through pip and run project
-### $ pip install Flask python-dotenv
-### flask run
+### Install Flask through pip and run project
+$ pip install Flask python-dotenv
+$ flask run
