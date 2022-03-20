@@ -10,7 +10,6 @@ Setup (Python)
 You will need Python3 and pip for this project.
 
 ### Create and activate an enviorment
-$ cd dataScout/server
 $ python3 -m venv venv
 
 ### Install Flask through pip and run project
