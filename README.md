@@ -19,3 +19,4 @@ $ . venv/bin/activate
 ### Install Flask through pip and run project  
 $ pip install Flask python-dotenv  
 $ flask run  
+on localhost, go to /graphs to see the test data being shown using chartjs.  
